@@ -1,7 +1,7 @@
 # general_bioinformatics
 
 ## fas2fasta.sh
-Shell script with unix loop to change filenames from .fas to .fasta
+Simple shell script with unix loop using mv function that changes all the filenames of all .fas files in a directory to .fasta.
 
 ## retrieve-fastq-fq.sh
 Shell script with unix loop using cp function, which finds and copies a requested set demultiplexed Illumina reads. Useful for finding reads in large archives.
